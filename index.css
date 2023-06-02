@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    
+}
+img{
+    width: 160px;
+    border-radius: 50px;
+    height: 120px;
+}
+.sedan{
+    background-color: rgb(148, 73, 73);
+    width: 200px;
+    padding:10px;
+    height:400px;
+}
+.suv{
+    background-color: rgb(50, 50, 206);
+    width:200px;
+    padding: 10px;
+    height: 400px;
+}
+button{
+    border-radius: 20px;
+    background:none;
+    border-color: white;
+    color: white;
+}
+h1{
+    font-family: cambria;
+}
+p{
+    line-height: 20px;
+}
